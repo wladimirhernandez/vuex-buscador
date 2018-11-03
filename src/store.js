@@ -3,7 +3,7 @@ import Vuex from 'vuex'
 
 Vue.use(Vuex)
 
-const movies = () => { return [{
+const users = () => { return [{
   "id": 1,
   "title": "Stim",
   "description": "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.",
@@ -508,7 +508,7 @@ const movies = () => { return [{
 
 export default new Vuex.Store({
   state: {
-    movies: movies(),
+    users: users(),
     filters: {
       query: "",
       avaible: true
