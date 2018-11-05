@@ -1008,7 +1008,7 @@ const users = () => { return [{"id":1,"first_name":"Stella","last_name":"Turner"
 export default new Vuex.Store({
   state: {
     users: users(),
-    filters: {
+    filter: {
       query: "",
       online: true
     }
@@ -1024,9 +1024,8 @@ export default new Vuex.Store({
   getters: {
     filteredUsers (state) {
       let users = state.users.filter(user => user.online === state.filter.online);
-      if (state.filter.query.length > 2){
-          return users.filter(user => user.first_name.toLowerCase().includes(state.filter.query));
-      }
+      if (state.filter.query.length > 0){
+          return users.filter(user => user.first_name.toLowerCase().includes(state.filter.query));      }
       return users;
     }
   }

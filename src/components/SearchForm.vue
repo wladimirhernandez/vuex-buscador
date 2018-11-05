@@ -36,7 +36,7 @@ export default {
             set(){
                 this.$store.commit('SET_ONLINE');
             }
-        },
+        }
     }
 }
 </script>

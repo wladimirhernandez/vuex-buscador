@@ -1,18 +1,18 @@
 <template>
   <div id="app">
     <div class="contai">
-      <movies-app></movies-app>
+      <users-app></users-app>
     </div>
   </div>
 </template>
 
 <script>
-import MoviesApp from './components/UsersApp';
+import UsersApp from './components/UsersApp';
 
 export default {
   name: 'app',
   components: {
-    MoviesApp
+    UsersApp
   }
 }
 </script>
