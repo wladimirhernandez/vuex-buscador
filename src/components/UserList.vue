@@ -15,7 +15,6 @@
             </tbody>
         </table>
         </div>
-    </div>
     <div v-else="" class="alert alert-danger"> User not Found</div>
 </template>
 
