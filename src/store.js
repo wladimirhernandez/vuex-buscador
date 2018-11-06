@@ -2559,7 +2559,7 @@ const users = () => { return [{"id":1,"name":"Livvyy Samsonsen","email":"lsamson
 {"id":2554,"name":"Melita Debow","email":"mdebowfd@ucoz.ru","gender":"Female","online":true},
 {"id":2555,"name":"Elaina Westell","email":"ewestellfe@wikispaces.com","gender":"Female","online":true},
 {"id":2556,"name":"Brett Mapledoram","email":"bmapledoramff@furl.net","gender":"Male","online":true},
-{"id":2557,"name":"Lemar Freeburn","email":"lfreeburnfg@plala.or.jp","gender":"Male","online":true},
+{"id":2557,"name":"Lemar Freburn","email":"lfreeburnfg@plala.or.jp","gender":"Male","online":true},
 {"id":2558,"name":"Yule Reedie","email":"yreediefh@indiatimes.com","gender":"Male","online":true},
 {"id":2559,"name":"Lurleen Dionsetti","email":"ldionsettifi@reverbnation.com","gender":"Female","online":true},
 {"id":2560,"name":"Dannie Smurthwaite","email":"dsmurthwaitefj@unicef.org","gender":"Female","online":true},
