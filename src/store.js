@@ -8,7 +8,7 @@ const users = () => { return [{"id":1,"name":"Livvyy Samsonsen","email":"lsamson
 {"id":3,"name":"Danya Walak","email":"dwalak2@boston.com","gender":"Female","online":true},
 {"id":4,"name":"Rockwell Boatwright","email":"rboatwright3@woothemes.com","gender":"Male","online":true},
 {"id":5,"name":"Kelsi Souch","email":"ksouch4@seattletimes.com","gender":"Female","online":true},
-{"id":6,"name":"Bunny Cucinotta","email":"bcucinotta5@youtu.be","gender":"Female","online":true},
+{"id":6,"name":"Bunny Cucinota","email":"bcucinotta5@youtu.be","gender":"Female","online":true},
 {"id":7,"name":"Rozalie Andreutti","email":"randreutti6@sphinn.com","gender":"Female","online":true},
 {"id":8,"name":"Olga Garrood","email":"ogarrood7@mail.ru","gender":"Female","online":true},
 {"id":9,"name":"Tybie Spyby","email":"tspyby8@dion.ne.jp","gender":"Female","online":true},
