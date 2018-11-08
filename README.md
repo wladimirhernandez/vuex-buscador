@@ -9,3 +9,9 @@ npm install
 ```
 npm run serve 
 ```
+
+## Generar Versión de Producción
+```
+npm run build 
+```
+
